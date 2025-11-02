@@ -1,0 +1,19 @@
+# Network Monitoring Tool Requirements
+
+# Core networking and system libraries
+psutil>=5.9.0
+scapy>=2.5.0
+
+# GUI and visualization libraries
+matplotlib>=3.7.0
+networkx>=3.1
+
+# Tkinter is included with Python standard library
+# No additional requirements for tkinter
+
+# Optional: For enhanced MAC vendor lookup
+# requests>=2.28.0  # Uncomment if you want to add online MAC vendor lookup
+
+# Development and testing (optional)
+# pytest>=7.0.0
+# pylint>=2.15.0

@@ -1,0 +1,430 @@
+2025-08-30 21:54:31,292 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-08-30 21:59:43,112 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-08-30 22:00:03,398 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 22:00:03,401 - NetworkMonitor - INFO - New Device: New device detected: 172.20.113.164 (LAPTOP-V2O0SIG2.VITCHOSDNS)
+2025-08-30 22:00:18,230 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:00:27,053 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:00:30,039 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:00:57,993 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-30 22:00:57,994 - NetworkMonitor - INFO - New Device: New device detected: 172.20.113.87 (Unknown)
+2025-08-30 22:01:35,940 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 22:01:39,698 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:01:48,818 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:02:15,828 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 22:02:34,876 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 22:02:56,893 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-08-30 22:02:56,893 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-08-30 22:03:05,595 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 22:04:15,672 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-30 22:04:15,673 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-30 22:04:15,674 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.76 (Unknown)
+2025-08-30 22:04:15,674 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.230 (Unknown)
+2025-08-30 22:04:20,103 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-30 22:04:20,104 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.76 (Unknown)
+2025-08-30 22:04:27,423 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:39,001 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-30 22:05:39,005 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-30 22:05:39,006 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.76 (Unknown)
+2025-08-30 22:05:46,712 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:48,193 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:49,370 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:50,368 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:51,363 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:56,906 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:05:58,580 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:01,610 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:04,283 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:04,714 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:04,848 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:04,968 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:05,995 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:07,177 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:10,417 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:20,714 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:06:36,790 - NetworkMonitor - INFO - Monitoring paused
+2025-08-30 22:06:37,917 - NetworkMonitor - INFO - Monitoring resumed
+2025-08-30 22:06:50,620 - NetworkMonitor - INFO - Test Alert: This is a test alert to verify the system is working
+2025-08-30 22:07:14,270 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-30 22:07:14,271 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-30 22:07:14,271 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.76 (Unknown)
+2025-08-30 22:07:20,619 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 22:09:50,505 - NetworkMonitor - INFO - Application shutting down
+2025-08-30 22:25:18,138 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-08-30 22:46:50,931 - NetworkMonitor - INFO - Application shutting down
+2025-08-30 23:01:45,379 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-08-30 23:02:01,113 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 23:02:01,115 - NetworkMonitor - INFO - New Device: New device detected: 172.20.113.164 (LAPTOP-V2O0SIG2.VITCHOSDNS)
+2025-08-30 23:02:20,129 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-08-30 23:02:23,742 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 23:02:26,464 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-30 23:02:51,814 - NetworkMonitor - INFO - Application shutting down
+2025-08-31 20:52:29,009 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-08-31 20:52:55,574 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-31 20:52:55,577 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.25 (LAPTOP-V2O0SIG2)
+2025-08-31 20:52:55,577 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:53:09,989 - NetworkMonitor - INFO - Bandwidth threshold set to 100000.0 KB/s
+2025-08-31 20:53:09,989 - NetworkMonitor - INFO - Bandwidth threshold set to 100000.0 KB/s
+2025-08-31 20:53:32,318 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 20:53:32,320 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:53:32,320 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.252 (Unknown)
+2025-08-31 20:54:13,822 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 20:54:13,826 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:54:22,726 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 20:54:28,094 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 20:54:51,827 - NetworkMonitor - INFO - Monitoring paused
+2025-08-31 20:54:52,919 - NetworkMonitor - INFO - Monitoring resumed
+2025-08-31 20:55:20,827 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 20:55:20,827 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:55:49,353 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 20:55:50,379 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 20:55:52,982 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 20:56:47,311 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-31 20:56:47,319 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:57:15,327 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 20:57:15,333 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 20:57:15,334 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.252 (Unknown)
+2025-08-31 20:59:33,815 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 20:59:33,820 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 21:13:04,782 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 21:13:04,784 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 21:13:17,786 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 21:13:51,514 - NetworkMonitor - INFO - Log display cleared
+2025-08-31 21:13:58,886 - NetworkMonitor - INFO - Test Alert: This is a test alert to verify the system is working
+2025-08-31 21:14:24,395 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-08-31 21:14:24,396 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 21:14:48,273 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-08-31 21:14:48,274 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.176 (Unknown)
+2025-08-31 21:14:48,274 - NetworkMonitor - INFO - New Device: New device detected: 10.123.49.252 (Unknown)
+2025-08-31 21:14:59,666 - NetworkMonitor - INFO - Network topology generated successfully
+2025-08-31 21:15:02,066 - NetworkMonitor - INFO - Application shutting down
+2025-09-16 21:17:52,202 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-16 21:18:18,279 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-16 21:18:18,282 - NetworkMonitor - INFO - New Device: New device detected: 172.20.114.45 (LAPTOP-V2O0SIG2.VITCHOSDNS)
+2025-09-16 21:18:30,010 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:18:38,763 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-16 21:18:46,495 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-16 21:21:11,587 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:21:11,589 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:21:11,591 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:21:18,270 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:21:20,224 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:21:20,495 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:21:21,348 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:23:01,984 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-16 21:23:01,986 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:23:36,929 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:23:36,931 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:23:36,931 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:23:44,777 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:23:44,778 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:23:44,778 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.25 (LAPTOP-V2O0SIG2)
+2025-09-16 21:23:49,239 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-16 21:23:49,239 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:23:49,240 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:23:54,520 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:24:30,659 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:24:30,663 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:24:30,664 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:25:30,983 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:25:30,987 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:25:30,987 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.25 (LAPTOP-V2O0SIG2)
+2025-09-16 21:25:35,195 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:25:35,197 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:25:35,198 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:25:53,218 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:25:53,218 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:25:53,219 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:26:49,136 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:26:49,137 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:26:49,137 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:27:08,791 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:27:08,792 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:27:08,792 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:27:29,948 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:27:29,949 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:27:29,949 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:27:50,167 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:27:50,168 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:27:50,169 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:28:33,319 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-16 21:28:33,321 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:28:33,322 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.25 (LAPTOP-V2O0SIG2)
+2025-09-16 21:28:46,416 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-16 21:28:46,417 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:28:51,606 - NetworkMonitor - INFO - Application shutting down
+2025-09-16 21:28:58,275 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-16 21:29:16,382 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-16 21:29:16,387 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.25 (LAPTOP-V2O0SIG2)
+2025-09-16 21:29:16,388 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:29:16,388 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:29:27,911 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:29:47,310 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-16 21:29:47,316 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:29:47,316 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:30:30,524 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-16 21:30:30,527 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.199 (Unknown)
+2025-09-16 21:30:30,528 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:30:37,910 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-16 21:30:49,902 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-16 21:30:49,905 - NetworkMonitor - INFO - New Device: New device detected: 10.251.238.211 (Unknown)
+2025-09-16 21:31:02,869 - NetworkMonitor - INFO - Application shutting down
+2025-09-28 15:58:02,956 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-28 15:58:28,828 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 15:58:28,832 - NetworkMonitor - INFO - New Device: New device detected: 172.20.113.181 (LAPTOP-V2O0SIG2.VITCHOSDNS)
+2025-09-28 15:58:57,503 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 15:59:31,722 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-28 15:59:31,728 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.211 (Unknown)
+2025-09-28 15:59:31,729 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 15:59:47,298 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:08,275 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-28 16:00:08,278 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:00:08,279 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.211 (Unknown)
+2025-09-28 16:00:21,079 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:24,962 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:25,664 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:26,237 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:26,804 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:00:56,556 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 16:01:09,851 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 16:01:09,854 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:01:28,346 - NetworkMonitor - INFO - Bandwidth threshold set to 100000.0 KB/s
+2025-09-28 16:01:28,346 - NetworkMonitor - INFO - Bandwidth threshold set to 100000.0 KB/s
+2025-09-28 16:01:40,383 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 16:01:40,385 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:01:56,673 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 16:01:56,674 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:02:08,375 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-28 16:02:08,379 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:02:11,412 - NetworkMonitor - INFO - Application shutting down
+2025-09-28 16:02:16,942 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-28 16:02:26,919 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-28 16:02:26,923 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-28 16:02:26,923 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:02:53,783 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-28 16:02:53,790 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:02:53,791 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.136 (Unknown)
+2025-09-28 16:03:09,028 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-28 16:03:41,576 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-28 16:03:41,576 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-28 16:03:41,576 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.211 (Unknown)
+2025-09-28 16:03:47,003 - NetworkMonitor - INFO - Application shutting down
+2025-09-29 22:29:07,574 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-29 22:29:30,746 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:29:30,748 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:29:30,749 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:29:42,847 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:29:42,850 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:29:55,457 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:29:55,460 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:30:17,052 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:30:17,057 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:30:38,524 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:39,475 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:40,642 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:45,540 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:48,865 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:49,498 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:49,945 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:50,417 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:50,534 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:50,704 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:50,889 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,057 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,222 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,370 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,517 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,681 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:51,832 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:52,278 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:30:59,012 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:31:23,242 - NetworkMonitor - INFO - Application shutting down
+2025-09-29 22:32:01,274 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-29 22:32:15,023 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:32:15,030 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:32:15,031 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:32:37,697 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:32:37,701 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:32:50,302 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:32:50,308 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:33:13,855 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:33:15,994 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:33:16,614 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:33:38,113 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-29 22:33:51,467 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:34:53,357 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:34:53,360 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:35:05,974 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:35:07,491 - NetworkMonitor - INFO - Application shutting down
+2025-09-29 22:37:36,840 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-29 22:38:04,181 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:38:04,187 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:38:04,188 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:38:20,207 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:38:20,209 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:38:29,126 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-29 22:38:29,126 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-29 22:38:41,168 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:38:41,170 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:39:05,172 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:39:05,174 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:39:19,065 - NetworkMonitor - INFO - Application shutting down
+2025-09-29 22:45:43,823 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-29 22:45:57,943 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:45:57,945 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:45:57,946 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:46:10,414 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:46:10,418 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:46:23,976 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-29 22:46:23,980 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-29 22:46:54,473 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-29 22:46:54,475 - NetworkMonitor - INFO - New Device: New device detected: 10.226.189.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:47:01,980 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:47:13,329 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:47:15,027 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1240.27 KB/s
+2025-09-29 22:47:28,572 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-29 22:47:28,574 - NetworkMonitor - INFO - New Device: New device detected: 10.226.189.25 (LAPTOP-V2O0SIG2)
+2025-09-29 22:48:33,840 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:48:38,606 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:48:51,697 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:49:03,498 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:49:29,188 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-09-29 22:49:39,061 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 00:19:41,958 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 00:19:55,299 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:19:55,303 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-30 00:19:55,303 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:20:13,714 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:20:13,718 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:20:18,029 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:20:19,852 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:20:35,088 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:20:51,603 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:21:17,027 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:21:17,034 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:23:03,181 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:23:03,184 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:23:35,154 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:23:35,156 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:23:54,049 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:23:54,062 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:23:54,062 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 00:24:18,300 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:25:04,252 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:25:04,253 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 00:27:11,620 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:27:11,624 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:27:11,625 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 00:27:58,706 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 00:28:21,575 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 00:28:33,828 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 00:28:33,832 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-30 00:28:33,832 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:28:56,953 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:28:56,956 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:28:56,956 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 00:29:40,104 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:29:42,995 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:29:45,683 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 00:30:28,729 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:30:28,730 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:30:28,731 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 00:32:21,146 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:32:21,148 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:32:21,148 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.145 (LAPTOP-5Q1KEOTN)
+2025-09-30 00:51:36,142 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 00:51:36,148 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 00:51:36,148 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.145 (Unknown)
+2025-09-30 00:51:46,064 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:00:11,259 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1040.31 KB/s
+2025-09-30 01:00:46,548 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 01:11:56,058 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 01:12:16,146 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 01:12:16,150 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.25 (LAPTOP-V2O0SIG2)
+2025-09-30 01:12:16,151 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 01:12:16,151 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.145 (Unknown)
+2025-09-30 01:12:23,061 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:12:29,130 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:12:46,948 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:12:50,074 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:13:24,764 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-30 01:13:24,764 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-30 01:13:46,148 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 01:14:10,649 - NetworkMonitor - INFO - Device scan completed. Found 4 devices
+2025-09-30 01:14:10,653 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 01:14:10,654 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 01:14:28,055 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:15:02,142 - NetworkMonitor - INFO - Device scan completed. Found 4 devices
+2025-09-30 01:15:02,143 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 01:15:02,143 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.76 (Unknown)
+2025-09-30 01:15:10,247 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 01:17:31,492 - NetworkMonitor - INFO - Test Alert: This is a test alert to verify the system is working
+2025-09-30 01:17:44,639 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 01:17:44,640 - NetworkMonitor - INFO - New Device: New device detected: 10.244.57.243 (Unknown)
+2025-09-30 01:17:48,598 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 10:47:48,258 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 10:48:04,980 - NetworkMonitor - INFO - Device scan completed. Found 1 devices
+2025-09-30 10:48:04,984 - NetworkMonitor - INFO - New Device: New device detected: 172.20.112.166 (LAPTOP-V2O0SIG2.VITCHOSDNS)
+2025-09-30 10:48:26,068 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 10:48:36,601 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 11:59:32,523 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 12:00:21,965 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 12:13:53,672 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 12:14:12,556 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 12:14:12,559 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.25 (LAPTOP-V2O0SIG2)
+2025-09-30 12:14:12,559 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:14:17,891 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1056.33 KB/s
+2025-09-30 12:14:20,939 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1215.09 KB/s
+2025-09-30 12:14:24,987 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1000.06 KB/s
+2025-09-30 12:14:27,000 - NetworkMonitor - WARNING - Bandwidth Alert: High download detected: 1462.64 KB/s
+2025-09-30 12:14:37,346 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-30 12:14:37,346 - NetworkMonitor - INFO - Bandwidth threshold set to 10000.0 KB/s
+2025-09-30 12:14:41,894 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 12:15:16,593 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 12:15:16,597 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:15:34,497 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 12:15:34,497 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:15:56,762 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 12:15:56,765 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:16:26,973 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 12:16:26,977 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:16:26,979 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.233 (Unknown)
+2025-09-30 12:16:43,398 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 12:16:45,771 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 12:17:47,373 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 12:23:10,046 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 12:23:33,167 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 12:23:33,171 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.25 (LAPTOP-V2O0SIG2)
+2025-09-30 12:23:33,172 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:23:33,172 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.233 (Unknown)
+2025-09-30 12:23:37,469 - NetworkMonitor - INFO - Device scan completed. Found 2 devices
+2025-09-30 12:23:37,473 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:23:58,971 - NetworkMonitor - INFO - Application shutting down
+2025-09-30 12:25:45,533 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-09-30 12:26:01,839 - NetworkMonitor - INFO - Device scan completed. Found 3 devices
+2025-09-30 12:26:01,843 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.25 (LAPTOP-V2O0SIG2)
+2025-09-30 12:26:01,844 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.36 (Unknown)
+2025-09-30 12:26:01,844 - NetworkMonitor - INFO - New Device: New device detected: 172.25.193.233 (Unknown)
+2025-09-30 12:26:25,512 - NetworkMonitor - INFO - Network topology generated successfully
+2025-09-30 12:26:40,813 - NetworkMonitor - INFO - Application shutting down
+2025-10-24 16:19:13,458 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-10-24 16:19:18,011 - NetworkMonitor - INFO - Device scan completed. Found 0 devices
+2025-10-24 16:19:45,534 - NetworkMonitor - INFO - Application shutting down
+2025-10-24 16:23:54,088 - NetworkMonitor - INFO - Network monitoring tool started successfully
+2025-10-24 16:24:30,284 - NetworkMonitor - INFO - Device scan completed. Found 4 devices
+2025-10-24 16:24:30,289 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.5 (LAPTOP-TSF8N9S5)
+2025-10-24 16:24:30,290 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.1 (Unknown)
+2025-10-24 16:24:30,290 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.9 (Unknown)
+2025-10-24 16:24:30,291 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.11 (Unknown)
+2025-10-24 16:24:56,930 - NetworkMonitor - INFO - Network topology generated successfully
+2025-10-24 16:24:58,809 - NetworkMonitor - INFO - Device scan completed. Found 4 devices
+2025-10-24 16:24:58,809 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.1 (Unknown)
+2025-10-24 16:24:58,810 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.9 (Unknown)
+2025-10-24 16:24:58,811 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.4 (Unknown)
+2025-10-24 16:25:57,727 - NetworkMonitor - INFO - Network topology generated successfully
+2025-10-24 16:26:29,839 - NetworkMonitor - INFO - Device scan completed. Found 5 devices
+2025-10-24 16:26:29,839 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.1 (Unknown)
+2025-10-24 16:26:29,840 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.9 (Unknown)
+2025-10-24 16:26:29,840 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.4 (Unknown)
+2025-10-24 16:26:29,840 - NetworkMonitor - INFO - New Device: New device detected: 192.168.1.11 (Unknown)
+2025-10-24 16:26:41,776 - NetworkMonitor - INFO - Network topology generated successfully
+2025-10-24 16:27:01,063 - NetworkMonitor - INFO - Application shutting down
