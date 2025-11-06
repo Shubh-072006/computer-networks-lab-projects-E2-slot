@@ -1,10 +1,13 @@
-socket
-threading
-tkinter
-requests
-numpy
-pandas
-matplotlib
-scapy
-flask
-django
+- Python
+- Sockets
+- Threading
+- NumPy
+- Asyncio
+- Textual
+- Flask
+- Flask-SocketIO
+- JSON
+- VS Code
+- Command-line/Terminal
+- Google Chrome
+- pip
