@@ -1,0 +1,9 @@
+# Sample malicious links collected
+
+http://testphp.vulnweb.com/listproducts.php?cat=1' OR 1=1--
+http://dvwa.local/vulnerabilities/xss_r/?name=%3Cscript%3Ealert(%27XSS%27)%3C/script%3E
+http://bwapp.local/xss_get.php?firstname=%3Cscript%3Ealert(%27XSS%27)%3C/script%3E
+
+# Notes
+- These links were added as examples of malicious input for testing an IDS/proxy.
+- Keep these offline and do not navigate to internal test hosts unless you control them.

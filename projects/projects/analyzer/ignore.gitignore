@@ -1,0 +1,14 @@
+# Ignore all node_modules folders (too big!)
+node_modules/
+
+# Ignore secret files like passwords
+.env
+config.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build folders
+dist/
+build/

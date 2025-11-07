@@ -1,0 +1,35 @@
+.device-card {
+    transition: transform 0.2s;
+    border: 1px solid #dee2e6;
+}
+
+.device-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.device-icon {
+    font-size: 2rem;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+}
+
+.device-icon.on {
+    opacity: 1;
+}
+
+.toggle-btn {
+    transition: all 0.3s;
+}
+
+.toggle-btn:hover {
+    transform: scale(1.05);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+body {
+    background-color: #f8f9fa;
+}

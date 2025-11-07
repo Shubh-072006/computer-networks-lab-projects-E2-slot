@@ -1,0 +1,16 @@
+# 👥 Team Information
+
+**Project Title:** Mini BitTorrent — P2P File Sharing System  
+**Course:** Computer Networks Lab (E2 Slot)  
+**Faculty:** Mr. Tanay Mitra  
+
+---
+
+| Name | Registration Number | Role |
+|------|----------------------|------|
+| SARANG G NAVATH | 24BEC1537 | Developer & Documentation |
+| [SATYARTH PANDEY] | [24BCE5087] | UI Design & Testing |
+
+**Project Overview:**  
+A simplified peer-to-peer file sharing system that simulates BitTorrent functionality.  
+Includes a tracker, web interface, and peer-to-peer socket communication for file piece exchange across multiple devices.

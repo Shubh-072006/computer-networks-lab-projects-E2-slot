@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NetSentry | Smart Network Monitor</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div id="intro">
+    <h1 class="fade-in">NetSentry</h1>
+    <p class="fade-in">Smart Network Traffic & Anomaly Detection System</p>
+  </div>
+
+  <div id="main" class="hidden">
+    <div class="container">
+      <div class="control-panel">
+        <h2>Control Center</h2>
+        <p class="subtitle">Choose a mode to begin monitoring:</p>
+        
+        <div class="control-group">
+          <h4>Live Monitoring</h4>
+          <button class="btn blue" id="start-live-btn">Start Live Mode</button>
+        </div>
+
+        <div class="control-group">
+          <h4>Simulation</h4>
+          <button class="btn blue" id="start-sim-btn">Start Simulation Mode</button>
+          <button class="btn teal" id="generate-btn">Generate Dataset</button>
+          <button class="btn gold" id="train-btn">Train Model</button>
+        </div>
+
+        <div class="control-group">
+          <h4>Controls</h4>
+          <button class="btn red" id="stop-btn">Stop Monitoring</button>
+          <button class="btn gray" id="reset-chart-btn">Reset Graph</button>
+        </div>
+
+        <div class="control-group">
+          <h4>Reports</h4>
+          <button class="btn gray" id="download-report-btn">Download Report</button>
+        </div>
+
+        <div id="status-box">
+          <h3>Status Monitor</h3>
+            <p id="status">Idle.</p>
+          <p id="rows"></p>
+        </div>
+      </div>
+
+      <div class="graph-section">
+        <h2>📈 Real-Time Traffic Monitor</h2>
+        <canvas id="trafficChart"></canvas>
+
+        <div id="packet-info">
+          <h3>Packet Insight</h3>
+            <pre id="event-details">{}</pre>
+        </div>
+      </div>
+
+      <div class="explanation">
+        <h3>💬 Explanation</h3>
+          <div id="explanation">Waiting for activity...</div>
+      </div>
+    </div>
+
+    <div class="log-panel">
+      <h4>🪵 Anomaly Logs</h4>
+      <div id="log-header">
+        <button class="btn gray" id="download-logs-btn">Download Logs</button>
+      </div>
+      <div id="log-container"></div>
+    </div>
+  </div>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

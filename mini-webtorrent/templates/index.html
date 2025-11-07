@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mini BitTorrent</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Canvas for twinkling stars -->
+    <canvas id="stars"></canvas>
+
+    <div class="container">
+        <h1>Mini BitTorrent</h1>
+
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" required>
+            <button type="submit">Upload</button>
+        </form>
+
+        <h2>Available Files</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Filename</th>
+                    <th>Size (KB)</th>
+                    <th>Uploaded At</th>
+                    <th>Download</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for file in files %}
+                <tr>
+                    <td>{{ file }}</td>
+                    <td>{{ file_sizes[file] }}</td>
+                    <td>{{ file_times[file] }}</td>
+                    <td><a href="/download/{{ file }}">Download</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('stars');
+        const ctx = canvas.getContext('2d');
+        let starsArray = [];
+        const numStars = 150;
+
+        function resizeCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resizeCanvas);
+        resizeCanvas();
+
+        function createStars() {
+            starsArray = [];
+            for (let i = 0; i < numStars; i++) {
+                starsArray.push({
+                    x: Math.random() * canvas.width,
+                    y: Math.random() * canvas.height,
+                    radius: Math.random() * 1.2,
+                    alpha: Math.random(),
+                    delta: Math.random() * 0.02
+                });
+            }
+        }
+
+        function drawStars() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            starsArray.forEach(star => {
+                star.alpha += star.delta;
+                if (star.alpha > 1 || star.alpha < 0) star.delta *= -1;
+
+                ctx.beginPath();
+                ctx.arc(star.x, star.y, star.radius, 0, Math.PI * 2);
+                ctx.fillStyle = `rgba(255,255,255,${star.alpha})`;
+                ctx.fill();
+            });
+            requestAnimationFrame(drawStars);
+        }
+
+        createStars();
+        drawStars();
+    </script>
+</body>
+</html>

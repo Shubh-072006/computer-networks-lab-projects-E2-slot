@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDS Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🛡️ Proxy & Intrusion Detection System Dashboard</h1>
+        </header>
+        
+        <div class="metrics-grid">
+            <div class="metric-card">
+                <h3>Total Threats Detected</h3>
+                <p id="totalThreats">0</p>
+            </div>
+            <div class="metric-card">
+                <h3>Requests Blocked</h3>
+                <p id="threatsBlocked">0</p>
+            </div>
+            <div class="metric-card">
+                <h3>Active Connections</h3>
+                <p id="activeConnections">0</p>
+            </div>
+            <div class="metric-card">
+                <h3>Top Domain Visited</h3>
+                <p id="topDomain">N/A</p>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-container">
+                <h3>Live Traffic (Threats)</h3>
+                <canvas id="trafficChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <h3>Attack Distribution</h3>
+                <canvas id="attackChart"></canvas>
+            </div>
+        </div>
+
+        <div class="alerts-container">
+            <h2>Live Alerts</h2>
+            <div id="liveAlerts">
+                </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>

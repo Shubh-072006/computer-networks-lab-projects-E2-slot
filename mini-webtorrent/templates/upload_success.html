@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Completed - Mini BitTorrent</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Completed!</h1>
+        <p>Your file has been successfully uploaded.</p>
+
+        <h2>Available Files</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Filename</th>
+                    <th>Size (KB)</th>
+                    <th>Uploaded At</th>
+                    <th>Download</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for file in files %}
+                <tr>
+                    <td>{{ file }}</td>
+                    <td>{{ file_sizes[file] }}</td>
+                    <td>{{ file_times[file] }}</td>
+                    <td><a href="/download/{{ file }}">Download</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <p><a href="/">Go back to Home</a></p>
+    </div>
+</body>
+</html>

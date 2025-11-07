@@ -1,0 +1,9 @@
+{
+    "tracker_url": "http://127.0.0.1:5000/tracker",
+    "file_name": "bleach-tybw-v0-34885g9bsgke1.webp",
+    "file_size": 40552,
+    "piece_size": 262144,
+    "piece_hashes": [
+        "a74b4b710c9e5f26a95852d9bc60d9b2bfa76f26"
+    ]
+}

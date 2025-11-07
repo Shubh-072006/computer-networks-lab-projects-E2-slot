@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Congestion Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <div class="logo">NetworkAnalyzer</div>
+                <div class="nav-links">
+                    <a href="#" class="nav-link active" onclick="showSlide(1)">Overview</a>
+                    <a href="#" class="nav-link" onclick="showSlide(2)">Traffic</a>
+                    <a href="#" class="nav-link" onclick="showSlide(3)">Simulation</a>
+                    <a href="#" class="nav-link" onclick="showSlide(4)">Protocols</a>
+                    <a href="#" class="nav-link" onclick="showSlide(5)">Analytics</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Slide 1: Enhanced Overview -->
+    <section class="slide active" id="slide1">
+        <div class="container">
+            <div class="hero">
+                <!-- Main Hero Section -->
+                <div class="hero-main">
+                    <div class="hero-content">
+                        <div class="hero-badge">Interactive Learning Platform</div>
+                        <h1 class="hero-title">
+                            <span class="title-line">Network Congestion</span>
+                            <span class="title-line highlight">Visualization Lab</span>
+                        </h1>
+                        <p class="hero-subtitle">
+                            Experience real-time network behavior through interactive simulations. 
+                            Understand TCP vs UDP protocols, traffic flow, and congestion control 
+                            in an engaging visual environment.
+                        </p>
+                        
+                        <div class="hero-actions">
+                            <button class="btn btn-primary" onclick="showSlide(2)">
+                                <span class="btn-icon">🚀</span>
+                                Start Interactive Demo
+                            </button>
+                            <button class="btn btn-secondary" onclick="showSlide(3)">
+                                <span class="btn-icon">📊</span>
+                                View Live Simulation
+                            </button>
+                        </div>
+
+                        <div class="hero-stats">
+                            <div class="stat">
+                                <div class="stat-number">3</div>
+                                <div class="stat-label">Interactive Modules</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-number">2</div>
+                                <div class="stat-label">Protocol Types</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-number">100%</div>
+                                <div class="stat-label">Real-time Data</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="hero-visual">
+                        <div class="network-preview">
+                            <div class="preview-node">Source</div>
+                            <div class="preview-link">
+                                <div class="preview-packet"></div>
+                            </div>
+                            <div class="preview-node">Router</div>
+                            <div class="preview-link">
+                                <div class="preview-packet"></div>
+                            </div>
+                            <div class="preview-node">Destination</div>
+                        </div>
+                        <div class="preview-label">Live Packet Flow Simulation</div>
+                    </div>
+                </div>
+
+                <!-- Features Grid -->
+                <div class="features-section">
+                    <h2 class="section-title">What You'll Explore</h2>
+                    <div class="features-grid">
+                        <div class="feature-card">
+                            <div class="feature-header">
+                                <div class="feature-icon">🚗</div>
+                                <h3>Traffic Flow Simulation</h3>
+                            </div>
+                            <p>Watch packets flow like vehicles on a highway, demonstrating congestion principles with right-to-left movement patterns.</p>
+                            <ul class="feature-list">
+                                <li>Real-time packet animation</li>
+                                <li>Congestion visualization</li>
+                                <li>Traffic density controls</li>
+                            </ul>
+                        </div>
+
+                        <div class="feature-card">
+                            <div class="feature-header">
+                                <div class="feature-icon">⚡</div>
+                                <h3>Protocol Behavior Analysis</h3>
+                            </div>
+                            <p>Compare TCP and UDP in action with live adaptive behavior and performance metrics based on network conditions.</p>
+                            <ul class="feature-list">
+                                <li>TCP congestion control</li>
+                                <li>UDP constant rate transmission</li>
+                                <li>Real-time protocol switching</li>
+                            </ul>
+                        </div>
+
+                        <div class="feature-card">
+                            <div class="feature-header">
+                                <div class="feature-icon">📈</div>
+                                <h3>Performance Analytics</h3>
+                            </div>
+                            <p>Monitor network performance with live charts showing throughput, packet loss, and efficiency metrics.</p>
+                            <ul class="feature-list">
+                                <li>Live performance charts</li>
+                                <li>Historical data tracking</li>
+                                <li>Efficiency calculations</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Learning Objectives -->
+                <div class="objectives-section">
+                    <h2 class="section-title">Learning Objectives</h2>
+                    <div class="objectives-grid">
+                        <div class="objective-card">
+                            <div class="objective-number">01</div>
+                            <h4>Understand Congestion</h4>
+                            <p>Learn how network congestion occurs and its effects on data transmission</p>
+                        </div>
+                        <div class="objective-card">
+                            <div class="objective-number">02</div>
+                            <h4>Protocol Differences</h4>
+                            <p>Compare TCP and UDP behavior under various network conditions</p>
+                        </div>
+                        <div class="objective-card">
+                            <div class="objective-number">03</div>
+                            <h4>Performance Analysis</h4>
+                            <p>Analyze network performance metrics and optimization strategies</p>
+                        </div>
+                        <div class="objective-card">
+                            <div class="objective-number">04</div>
+                            <h4>Real-time Monitoring</h4>
+                            <p>Experience live network monitoring and traffic pattern analysis</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Start CTA -->
+                <div class="cta-section">
+                    <div class="cta-content">
+                        <h3>Ready to Explore Network Behavior?</h3>
+                        <p>Start with traffic simulation or jump directly to protocol analysis</p>
+                        <div class="cta-actions">
+                            <button class="btn btn-large" onclick="showSlide(2)">
+                                <span class="btn-icon">🚦</span>
+                                Start with Traffic Simulation
+                            </button>
+                            <button class="btn btn-large btn-outline" onclick="showSlide(4)">
+                                <span class="btn-icon">⚡</span>
+                                Jump to Protocol Analysis
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Slide 2: Traffic Simulation -->
+    <section class="slide" id="slide2">
+        <div class="container">
+            <h2>Traffic Congestion Analogy</h2>
+            <p>Network congestion behaves like highway traffic - watch packets flow right to left</p>
+            
+            <div class="traffic-section">
+                <div class="highway" id="highway">
+                    <div class="lane" id="fastLane">
+                        <div class="lane-label">Priority Packets</div>
+                    </div>
+                    <div class="lane" id="slowLane">
+                        <div class="lane-label">Regular Packets</div>
+                    </div>
+                </div>
+
+                <div class="controls">
+                    <button class="btn" onclick="startTraffic()">Start Traffic</button>
+                    <button class="btn secondary" onclick="increaseTraffic()">Increase Density</button>
+                    <button class="btn secondary" onclick="resetTraffic()">Reset</button>
+                </div>
+
+                <div class="traffic-stats">
+                    <div class="stat-item">
+                        <span>Active Packets:</span>
+                        <strong id="activePackets">0</strong>
+                    </div>
+                    <div class="stat-item">
+                        <span>Traffic Density:</span>
+                        <strong id="trafficDensity">Low</strong>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn" onclick="showSlide(3)">Next: Network Simulation →</button>
+        </div>
+    </section>
+
+    <!-- Slide 3: Network Simulation -->
+    <section class="slide" id="slide3">
+        <div class="container">
+            <h2>Network Packet Simulation</h2>
+            <p>Real-time packet flow through network infrastructure - Controls affect protocol behavior</p>
+
+            <div class="simulation-container">
+                <div class="control-panel">
+                    <div class="control-group">
+                        <h4>Network Controls</h4>
+                        <div class="slider-container">
+                            <label>Packet Rate: <span id="packetRateValue">10</span>/sec</label>
+                            <input type="range" id="packetRate" min="1" max="30" value="10" class="slider">
+                        </div>
+                        <div class="slider-container">
+                            <label>Network Capacity: <span id="capacityValue">15</span>/sec</label>
+                            <input type="range" id="networkCapacity" min="5" max="25" value="15" class="slider">
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <h4>Simulation Controls</h4>
+                        <button class="btn" onclick="startSimulation()">Start Simulation</button>
+                        <button class="btn secondary" onclick="pauseSimulation()">Pause</button>
+                        <button class="btn secondary" onclick="resetSimulation()">Reset</button>
+                    </div>
+
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value" id="sentCount">0</div>
+                            <div>Packets Sent</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="deliveredCount">0</div>
+                            <div>Delivered</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="droppedCount">0</div>
+                            <div>Dropped</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value" id="efficiency">100%</div>
+                            <div>Efficiency</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="network-visual">
+                    <div class="network-path">
+                        <div class="node">Source</div>
+                        <div class="link">
+                            <div class="link-fill" id="link1"></div>
+                        </div>
+                        <div class="node">Router A</div>
+                        <div class="link">
+                            <div class="link-fill" id="link2"></div>
+                        </div>
+                        <div class="node">Router B</div>
+                        <div class="link">
+                            <div class="link-fill" id="link3"></div>
+                        </div>
+                        <div class="node">Destination</div>
+                    </div>
+                    <div class="packet-container" id="packetContainer"></div>
+                    
+                    <div class="network-status">
+                        <h4>Network Status: <span id="networkStatus">Normal</span></h4>
+                        <p>Utilization: <span id="utilization">0%</span> | Protocol: <span id="currentProtocol">TCP</span></p>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn" onclick="showSlide(4)">Next: Protocol Analysis →</button>
+        </div>
+    </section>
+
+    <!-- Slide 4: Protocol Comparison -->
+    <section class="slide" id="slide4">
+        <div class="container">
+            <h2>Protocol Behavior Analysis</h2>
+            <p>Real-time TCP vs UDP performance based on current simulation data</p>
+
+            <div class="protocol-section">
+                <div class="protocol-tabs">
+                    <button class="protocol-tab active" onclick="setProtocol('tcp')">TCP Mode</button>
+                    <button class="protocol-tab" onclick="setProtocol('udp')">UDP Mode</button>
+                </div>
+
+                <div class="protocol-demo">
+                    <div class="protocol-card">
+                        <h3>TCP Behavior</h3>
+                        <div class="behavior-indicator">
+                            <div class="indicator-label">Congestion Window</div>
+                            <div class="window-display">
+                                <div class="window-fill" id="tcpWindow"></div>
+                            </div>
+                            <div class="indicator-value">Size: <span id="tcpWindowSize">1</span> packets</div>
+                        </div>
+                        <div class="protocol-stats">
+                            <div class="stat-row">
+                                <span>Current Rate:</span>
+                                <strong id="tcpCurrentRate">0</strong>/sec
+                            </div>
+                            <div class="stat-row">
+                                <span>Adaptive Behavior:</span>
+                                <strong id="tcpBehavior">Normal</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Packet Loss:</span>
+                                <strong id="tcpLoss">0%</strong>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="protocol-card">
+                        <h3>UDP Behavior</h3>
+                        <div class="behavior-indicator">
+                            <div class="indicator-label">Transmission Rate</div>
+                            <div class="window-display">
+                                <div class="window-fill" id="udpRate" style="background: #f59e0b;"></div>
+                            </div>
+                            <div class="indicator-value">Constant: <span id="udpRateValue">10</span>/sec</div>
+                        </div>
+                        <div class="protocol-stats">
+                            <div class="stat-row">
+                                <span>Current Rate:</span>
+                                <strong id="udpCurrentRate">0</strong>/sec
+                            </div>
+                            <div class="stat-row">
+                                <span>Adaptive Behavior:</span>
+                                <strong>None</strong>
+                            </div>
+                            <div class="stat-row">
+                                <span>Packet Loss:</span>
+                                <strong id="udpLoss">0%</strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="live-analysis">
+                    <h4>Live Protocol Analysis</h4>
+                    <div id="protocolAnalysis">
+                        <p>Start simulation to see real-time protocol behavior analysis...</p>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn" onclick="showSlide(5)">Next: Performance Analytics →</button>
+        </div>
+    </section>
+
+    <!-- Slide 5: Analytics -->
+    <section class="slide" id="slide5">
+        <div class="container">
+            <h2>Performance Analytics</h2>
+            <p>Live metrics and historical data from current simulation</p>
+
+            <div class="analytics-section">
+                <div class="charts-grid">
+                    <div class="chart-container">
+                        <h4>Throughput Over Time</h4>
+                        <canvas id="throughputChart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <h4>Packet Loss Over Time</h4>
+                        <canvas id="lossChart"></canvas>
+                    </div>
+                </div>
+
+                <div class="performance-summary">
+                    <h4>Current Performance Summary</h4>
+                    <div class="summary-grid">
+                        <div class="summary-card">
+                            <div class="summary-value" id="totalSent">0</div>
+                            <div class="summary-label">Total Sent</div>
+                        </div>
+                        <div class="summary-card">
+                            <div class="summary-value" id="totalDelivered">0</div>
+                            <div class="summary-label">Total Delivered</div>
+                        </div>
+                        <div class="summary-card">
+                            <div class="summary-value" id="totalDropped">0</div>
+                            <div class="summary-label">Total Dropped</div>
+                        </div>
+                        <div class="summary-card">
+                            <div class="summary-value" id="avgEfficiency">100%</div>
+                            <div class="summary-label">Efficiency</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="performance-insights">
+                    <h4>Performance Insights</h4>
+                    <div id="liveInsights">
+                        <p>• Network operating at optimal capacity</p>
+                        <p>• No congestion detected</p>
+                        <p>• Protocol behavior: Normal operation</p>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn" onclick="showSlide(1)">Back to Overview</button>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>

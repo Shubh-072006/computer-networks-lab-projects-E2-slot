@@ -1,0 +1,46 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+lan_transfer_env/
+env/
+ENV/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary/runtime data
+web_uploads/
+web_received/
+test_received/
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# Packages/build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Environment/config secrets
+.env
+.env.*
+
+

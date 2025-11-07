@@ -1,0 +1,239 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #0b0f14;
+  color: #f8f9fa;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  color: #00f7ff;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.control-panel, .graph-section, .explanation {
+  background: #141a22;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 0 10px #0ff2;
+}
+
+.control-panel {
+  width: 20%;
+  min-width: 250px;
+}
+
+.control-group {
+  background: #0c1117;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.control-group h4 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  color: #8e9eab;
+}
+
+.control-group .btn {
+  margin: 4px 0;
+}
+
+.graph-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Constrain the chart to the graph card. Chart.js will use the canvas size when maintainAspectRatio=false */
+#trafficChart {
+  width: 100%;
+  height: 360px !important; /* fixed height so Chart.js has space to render */
+  max-height: 360px;
+  display: block;
+}
+
+.graph-section canvas {
+  width: 100% !important;
+  height: 360px !important;
+}
+
+.explanation {
+  width: 20%;
+}
+
+.explanation-alert {
+  color: #ff4d6d;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.explanation-detail {
+  color: #8e9eab;
+  font-size: 0.9em;
+  margin-top: 8px;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.btn.blue { background: #007bff; color: white; }
+.btn.red { background: #dc3545; color: white; }
+.btn.teal { background: #17a2b8; color: white; }
+.btn.gold { background: #ffc107; color: black; }
+.btn.gray { background: #6c757d; color: white; }
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #333;
+  margin: 15px 0;
+}
+
+#status-box {
+  background: #0e131a;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+#packet-info pre {
+  background: #0e131a;
+  padding: 10px;
+  border-radius: 10px;
+  height: 150px;
+  overflow-y: auto;
+}
+
+.log-panel {
+  position: fixed;
+  bottom: 15px;
+  right: 20px;
+  background: #10161e;
+  border-radius: 12px;
+  padding: 15px;
+  width: 400px;
+  height: 300px;
+  box-shadow: 0 0 10px #00f7ff55;
+  display: flex;
+  flex-direction: column;
+}
+
+.log-panel h4 {
+  margin: 0;
+  color: #ff6f61;
+  display: inline-block;
+}
+
+#log-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#log-header .btn {
+  width: auto;
+  margin: 0;
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+#log-container {
+  flex: 1;
+  overflow-y: auto;
+  font-size: 13px;
+  padding-right: 5px;
+}
+
+#log-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+#log-container::-webkit-scrollbar-track {
+  background: #0b0f14;
+  border-radius: 3px;
+}
+
+#log-container::-webkit-scrollbar-thumb {
+  background: #2a3543;
+  border-radius: 3px;
+}
+
+.log-entry {
+  padding: 8px;
+  margin: 4px 0;
+  border-radius: 4px;
+  background: #1a212b;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  border-left: 2px solid transparent;
+}
+
+.log-entry.anomaly {
+  background: #2d1a1f;
+  border-color: #ff4d6d;
+}
+
+.log-time {
+  color: #8e9eab;
+  font-family: monospace;
+  white-space: nowrap;
+}
+
+.log-message {
+  flex: 1;
+  line-height: 1.4;
+}
+
+#intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #0b0f14;
+  color: #00f7ff;
+  animation: fadeOut 2s ease-in 3s forwards;
+}
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 2s forwards;
+}
+
+.hidden {
+  display: none;
+}
+
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+  to { opacity: 0; visibility: hidden; }
+}
